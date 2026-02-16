@@ -1,11 +1,3 @@
-Here is a **student-friendly, honest, recruiter-impressive README** that
-✔ mentions ChatGPT in the right way
-✔ does NOT reduce your credibility
-✔ highlights your real work
-✔ sounds professional for internships / placements
-
-You can paste this directly into GitHub.
-
 ---
 
 # 📈 LSTM-Based Stock Price Forecasting (RELIANCE.NS)
